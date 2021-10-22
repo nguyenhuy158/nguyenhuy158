@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/hyquaq/static/css/main.f5cd83a4.chunk.css",
-    "main.js": "/hyquaq/static/js/main.f4a1309c.chunk.js",
-    "main.js.map": "/hyquaq/static/js/main.f4a1309c.chunk.js.map",
-    "runtime-main.js": "/hyquaq/static/js/runtime-main.00d34259.js",
-    "runtime-main.js.map": "/hyquaq/static/js/runtime-main.00d34259.js.map",
-    "static/js/2.6303e2d5.chunk.js": "/hyquaq/static/js/2.6303e2d5.chunk.js",
-    "static/js/2.6303e2d5.chunk.js.map": "/hyquaq/static/js/2.6303e2d5.chunk.js.map",
-    "static/js/3.423bbf69.chunk.js": "/hyquaq/static/js/3.423bbf69.chunk.js",
-    "static/js/3.423bbf69.chunk.js.map": "/hyquaq/static/js/3.423bbf69.chunk.js.map",
+    "main.js": "/hyquaq/static/js/main.5557eb10.chunk.js",
+    "main.js.map": "/hyquaq/static/js/main.5557eb10.chunk.js.map",
+    "runtime-main.js": "/hyquaq/static/js/runtime-main.5aa83b6b.js",
+    "runtime-main.js.map": "/hyquaq/static/js/runtime-main.5aa83b6b.js.map",
+    "static/js/2.f7f91291.chunk.js": "/hyquaq/static/js/2.f7f91291.chunk.js",
+    "static/js/2.f7f91291.chunk.js.map": "/hyquaq/static/js/2.f7f91291.chunk.js.map",
+    "static/js/3.31cb4cf6.chunk.js": "/hyquaq/static/js/3.31cb4cf6.chunk.js",
+    "static/js/3.31cb4cf6.chunk.js.map": "/hyquaq/static/js/3.31cb4cf6.chunk.js.map",
     "index.html": "/hyquaq/index.html",
     "static/css/main.f5cd83a4.chunk.css.map": "/hyquaq/static/css/main.f5cd83a4.chunk.css.map",
-    "static/js/2.6303e2d5.chunk.js.LICENSE.txt": "/hyquaq/static/js/2.6303e2d5.chunk.js.LICENSE.txt"
+    "static/js/2.f7f91291.chunk.js.LICENSE.txt": "/hyquaq/static/js/2.f7f91291.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.00d34259.js",
-    "static/js/2.6303e2d5.chunk.js",
+    "static/js/runtime-main.5aa83b6b.js",
+    "static/js/2.f7f91291.chunk.js",
     "static/css/main.f5cd83a4.chunk.css",
-    "static/js/main.f4a1309c.chunk.js"
+    "static/js/main.5557eb10.chunk.js"
   ]
 }
