@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hyquaq/static/css/main.f5cd83a4.chunk.css",
+    "main.js": "/hyquaq/static/js/main.f4a1309c.chunk.js",
+    "main.js.map": "/hyquaq/static/js/main.f4a1309c.chunk.js.map",
+    "runtime-main.js": "/hyquaq/static/js/runtime-main.00d34259.js",
+    "runtime-main.js.map": "/hyquaq/static/js/runtime-main.00d34259.js.map",
+    "static/js/2.6303e2d5.chunk.js": "/hyquaq/static/js/2.6303e2d5.chunk.js",
+    "static/js/2.6303e2d5.chunk.js.map": "/hyquaq/static/js/2.6303e2d5.chunk.js.map",
+    "static/js/3.423bbf69.chunk.js": "/hyquaq/static/js/3.423bbf69.chunk.js",
+    "static/js/3.423bbf69.chunk.js.map": "/hyquaq/static/js/3.423bbf69.chunk.js.map",
+    "index.html": "/hyquaq/index.html",
+    "static/css/main.f5cd83a4.chunk.css.map": "/hyquaq/static/css/main.f5cd83a4.chunk.css.map",
+    "static/js/2.6303e2d5.chunk.js.LICENSE.txt": "/hyquaq/static/js/2.6303e2d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00d34259.js",
+    "static/js/2.6303e2d5.chunk.js",
+    "static/css/main.f5cd83a4.chunk.css",
+    "static/js/main.f4a1309c.chunk.js"
+  ]
+}
