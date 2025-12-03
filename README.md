@@ -71,4 +71,12 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+Other                53 hrs 42 mins  ████████████████████████░   95.41 %
+Markdown             2 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Python               18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JSON with Comments   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
