@@ -80,3 +80,5 @@ YAML                 0 secs          ░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuy158&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/nguyenhuy158)
