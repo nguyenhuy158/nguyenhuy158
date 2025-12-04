@@ -5,6 +5,7 @@
 - 👋 Hi, I'm Nguyen Huy
 - 👀 I'm interested in coding and reading.  
 
+<!-- Badges -->
 <div id="badges" align="center">
     <a href="https://youtube.com/@ntqhuy2k2">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube Badge">
@@ -121,6 +122,7 @@ Python               24 mins         ▒░░░░░░░░░░░░░�
     <img src="https://raw.githubusercontent.com/nguyenhuy158/nguyenhuy158/output/github-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation">
 </div>
 
+<!-- Other/Fun -->
 <div align="center">
     <table>
         <tbody>
@@ -137,3 +139,7 @@ Python               24 mins         ▒░░░░░░░░░░░░░�
         </tbody>
     </table>
 </div>
+
+<!-- Note Session -->
+<!-- Add any notes or descriptions here. -->
+<!-- End Note Session -->
