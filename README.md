@@ -1,28 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <link rel="stylesheet" href="https://raw.githubusercontent.com/nguyenhuy158/nguyenhuy158/main/style.css">
 
-<div align="center">
-    <table>
-        <tbody>
-            <tr style="border: none;">
-                <td align="center" width="50%" style="border: none;">
-                    <img src="https://api.daily.dev/devcards/v2/m1gjIGSYTK5NSeehKkVLA.png?type=default&amp;r=e1x" alt="NguyenHuy's Dev Card" width="100%">
-                </td>
-                <td align="center" width="50%" style="border: none;">
-                    <img src="https://roadmap.sh/card/tall/66012c6a6deb533d6e2b7292?variant=dark" alt="NguyenHuy's roadmap.sh" width="100%">
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-<!-- - 👋 Hi, I'm Nguyen Huy -->
-<!-- - 👀 I'm interested in coding and reading.  -->
-
- <div>
-    <img src="https://raw.githubusercontent.com/nguyenhuy158/nguyenhuy158/output/github-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation">
-    <img src="https://raw.githubusercontent.com/nguyenhuy158/nguyenhuy158/output/github-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation">
-</div>
+<!-- Introduction -->
+- 👋 Hi, I'm Nguyen Huy
+- 👀 I'm interested in coding and reading.  
 
 <div id="badges" align="center">
     <a href="https://youtube.com/@ntqhuy2k2">
@@ -37,25 +18,19 @@
 </div>
 
 <div align="center">
-    <img style="width: 200px; height: 200px;" src="./giphy.gif">
-</div>
-
- <!-- # Coding time
-
-<div align="center">
     <table>
         <tbody>
             <tr style="border: none;">
                 <td align="center" width="50%" style="border: none;">
-                    <img src="https://github-readme-stats.vercel.app/api?username=nguyenhuy158&show_icons=true&theme=transparent">
+                    <img src="https://api.daily.dev/devcards/v2/m1gjIGSYTK5NSeehKkVLA.png?type=default&amp;r=e1x" alt="NguyenHuy's Dev Card" width="100%">
                 </td>
                 <td align="center" width="50%" style="border: none;">
-                    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy158&layout=compact&langs_count=8&theme=transparent">
+                    <img src="https://roadmap.sh/card/tall/66012c6a6deb533d6e2b7292?variant=dark" alt="NguyenHuy's roadmap.sh" width="100%">
                 </td>
             </tr>
         </tbody>
     </table>
-</div> -->
+</div>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <div align="center">
@@ -140,5 +115,14 @@ Python               24 mins         ▒░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuy158&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/nguyenhuy158)
+
+ <div>
+    <img src="https://raw.githubusercontent.com/nguyenhuy158/nguyenhuy158/output/github-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation">
+    <img src="https://raw.githubusercontent.com/nguyenhuy158/nguyenhuy158/output/github-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation">
+</div>
+
+<div align="center">
+    <img style="width: 200px; height: 200px;" src="./giphy.gif">
+</div>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xxvbkigpor7zyujytxm5laj4ta&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
