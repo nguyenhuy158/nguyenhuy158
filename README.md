@@ -2,8 +2,7 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/nguyenhuy158/nguyenhuy158/main/style.css">
 
 <!-- Introduction -->
-- 👋 Hi, I'm Nguyen Huy
-- 👀 I'm interested in coding and reading.  
+<p>👋 Hi, I'm Nguyen Huy, a Backend Developer and DevOps enthusiast with a keen interest in open-source tools.</p>  
 
 <!-- Badges -->
 <div id="badges" align="center">
