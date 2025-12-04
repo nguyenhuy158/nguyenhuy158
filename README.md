@@ -114,7 +114,7 @@ Python               24 mins         ▒░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuy158&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/nguyenhuy158)
+<a href="https://github.com/nguyenhuy158"><img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuy158&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000" alt="Ashutosh's github activity graph"></a>
 
  <div>
     <img src="https://raw.githubusercontent.com/nguyenhuy158/nguyenhuy158/output/github-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation">
@@ -122,7 +122,18 @@ Python               24 mins         ▒░░░░░░░░░░░░░�
 </div>
 
 <div align="center">
-    <img style="width: 200px; height: 200px;" src="./giphy.gif">
+    <table>
+        <tbody>
+            <tr style="border: none;">
+                <td align="center" width="50%" style="border: none;">
+                    <img style="width: 200px; height: 200px;" src="./giphy.gif">
+                </td>
+                <td align="center" width="50%" style="border: none;">
+                    <a href="https://github.com/kittinan/spotify-github-profile">
+                        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xxvbkigpor7zyujytxm5laj4ta&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false" alt="spotify-github-profile">
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xxvbkigpor7zyujytxm5laj4ta&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
