@@ -32,7 +32,7 @@
     </table>
 </div>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<h2>𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸</h2>
 <div align="center">
     <table>
         <tbody>
